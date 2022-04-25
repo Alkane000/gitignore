@@ -5,7 +5,6 @@ _TODO_
 
 **Links to documentation supporting these rule changes:**
 
-_TODO_
 
 If this is a new template:
 
